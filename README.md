@@ -1,12 +1,12 @@
-<center>
+<div align="center">
     <h1> Hello there 👋 </h1>
     <img src = "Images/profile_picture.webp" width="200"/>
-</center>
-<center>
+</div>
+<div align="center">
 <a href = "https://www.linkedin.com/in/sathvicksrinath/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</center>
+</div>
 
 ## About Me
 I'm **Sathvick** and currently studying Bachelors in Mechatronics (B.Eng) at [THWS](https://www.thws.de/en).
