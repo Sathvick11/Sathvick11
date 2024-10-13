@@ -20,3 +20,14 @@ I'm **Sathvick** and currently studying Bachelors in Mechatronics (B.Eng) at [TH
 <img src = "https://www.svgrepo.com/show/373802/light-yaml.svg" width = "100">
 <img src = "https://www.svgrepo.com/show/376333/latex.svg" width = "100">
 </p>
+
+## Tools
+<p align = "left">
+<img src = "https://www.svgrepo.com/show/374171/vscode.svg" width = "100">
+<img src = "https://www.svgrepo.com/show/452210/git.svg" width ="100">
+<img src = "https://www.svgrepo.com/show/354143/openshift.svg" width = "100">
+<img src = "https://www.svgrepo.com/show/452192/docker.svg" width="100">
+<img src = "https://www.svgrepo.com/show/354258/raspberry-pi.svg" width ="100">
+<img src = "https://www.svgrepo.com/show/448236/linux.svg" width = "100">
+<img src = "https://www.svgrepo.com/show/373455/azure.svg" width = "100">
+<p>
