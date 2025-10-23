@@ -9,7 +9,7 @@
 </div>
 
 ## About Me
-I'm **Sathvick** and currently studying Bachelors in Mechatronics (B.Eng) at [THWS](https://www.thws.de/en).
+I'm **Sathvick** and currently studying Masters in Mechatronics, Robotics and Biomechanical Engineering at [TUM](https://www.tum.de/en).
 
 ## Programming Languages
 <p align ="left">
